@@ -18,5 +18,5 @@
 
 <h2>Get in Touch</h2>
 
-[![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail&logoColor=EA4335)](mailto:ivanrfteixeira@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ivanrfteixeira/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanrfteixeira@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanrfteixeira/)
