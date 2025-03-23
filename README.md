@@ -2,9 +2,9 @@
 
 <h2>About Me</h2>
 
-- :computer: &nbsp; Currently studying C/C++ at 42 Porto.
+- :computer: &nbsp; Currently studying Software Development at 42 Porto.
 - 💼 &nbsp; Background in IT hardware/software maintenance.
-- 🎓 &nbsp; Wi-Fi hobbyist and network enthusiast.
+- 📡 &nbsp; Wi-Fi hobbyist and network enthusiast.
 - 🎧 &nbsp; Audio mixing and editing enthusiast.
 
 <h2>Skills</h2>
