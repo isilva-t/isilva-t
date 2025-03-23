@@ -1,4 +1,4 @@
-# What's up? Ivan Teixeira, introduced! 👋
+# What's up? Ivan Teixeira, introduced! 🔧
 
 <h2>About Me</h2>
 
@@ -6,7 +6,7 @@
 - 💼 &nbsp; Background in IT hardware/software maintenance.
 - 📡 &nbsp; Wi-Fi hobbyist and network enthusiast.
 - 🎧 &nbsp; Audio mixing and editing enthusiast.
-- ⚡ &nbsp; Believer in "Keep It Simple, Stupid" - elegance through simplicity. 
+- ⚡ &nbsp; Believer in "Keep It Simple, Stupid". 
 
 <h2>Skills</h2>
 
