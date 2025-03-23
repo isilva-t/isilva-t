@@ -1,4 +1,4 @@
-# What's up? I'm Ivan Teixeira! 📶
+# What's up? I'm Ivan Teixeira! 🛠️👨‍💻
 
 <h2>About Me</h2>
 
