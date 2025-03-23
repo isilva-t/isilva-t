@@ -1,18 +1,22 @@
 # Hello, I'm Ivan Teixeira 👋
 
-I'm a developer studiyng with C/C++ at 42 Porto with a background in IT hardware/software maintenance.
+<h2>About Me</h2>
 
-## About me
+- :computer: &nbsp; Currently studying C/C++ at 42 Porto.
+- 💼 &nbsp; Background in IT hardware/software maintenance.
+- 🎓 &nbsp; Wi-Fi hobbyist and network enthusiast.
+- 🎧 &nbsp; Audio mixing and editing enthusiast.
 
-I'm currently a student at 42 Porto, focusing on software development. Before joining 42, I worked as an IT technician specializing in hardware/software maintenance, which gave me a solid foundation in understanding computing systems and problem solving from the hardware level up.
+<h2>Skills</h2>
 
-I've been a Wi-Fi hobbyist for years, experimenting with wireless protocols and network setups in my free time before beginning my formal programming education. This hands-on experience with networking hardware sparked my interest in deeper technical learning.
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Networking](https://img.shields.io/badge/-Networking-333333?style=flat&logo=cisco)
 
-When I'm not coding, I explore my interest in audio mixing and editing, which complements my technical background with creative problem-solving.
+<h2>Get in Touch</h2>
 
-## Get in touch
-
-- 📧 [ivanrfteixeira@gmail.com](mailto:ivanrfteixeira@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ivanrfteixeira/)
-
----
+- 📧 &nbsp; [ivanrfteixeira@gmail.com](mailto:ivanrfteixeira@gmail.com)
+- 💼 &nbsp; [LinkedIn](https://www.linkedin.com/in/ivanrfteixeira/)
