@@ -10,6 +10,7 @@
   
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ivanrfteixeira@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanrfteixeira/)
+[![Website](https://img.shields.io/badge/-ivanteixeira.dev-1E40AF?style=flat-square&logo=google-chrome&logoColor=white)](https://ivanteixeira.dev)
 
 <h2>Skills</h2>
 
