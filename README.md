@@ -41,7 +41,7 @@
 - 💬 **[Internet Relay Chat (C++)](https://github.com/isilva-t/42.Internet_Relay_Chat)** - RFC-compliant IRC server implementation in C++
 - 🐳 **[Inception (Docker)](https://github.com/isilva-t/42.Inception)** - Docker multi-container infrastructure with WordPress, MariaDB, and Nginx
 - ➕ **[C++ Modules](https://github.com/isilva-t/42.Cpp_modules)** - Object-oriented programming fundamentals in C++98 standard
-- 🎨 **[MiniRT](https://github.com/isilva-t/42.Minirt)** - 3D graphics rendering engine with raytracing and light sources
+- 🎨 **[MiniRT](https://github.com/isilva-t/42.Minirt)** - 3D graphics rendering engine with raytracing and light source
 - 🍽️ **[Philosophers](https://github.com/isilva-t/42.Philosophers)** - Dining philosophers problem solved with multithreading and mutex sync
 - 🐚 **[Minishell](https://github.com/isilva-t/42.Minishell)** - Bash-like shell with pipes, redirections, and built-in commands
 - 📡 **[Minitalk](https://github.com/isilva-t/42.minitalk)** - Inter-process communication using UNIX signals
