@@ -2,7 +2,7 @@
 
 <h2>About Me</h2>
 
-- :computer: &nbsp; Software Developer focused on delivering customized solutions driven by client results.
+- :computer: &nbsp; Backend Developer focused on delivering customized solutions driven by client results.
 - 💼 &nbsp; Background in IT hardware/software maintenance.
 - 📡 &nbsp; Wi-Fi hobbyist and network enthusiast.
 - 🎧 &nbsp; Audio mixing and editing enthusiast.
