@@ -25,8 +25,8 @@
 
 **42 Advanced Curriculum:**
 - ☕ **[Avaj Launcher (Java)](https://github.com/isilva-t/42.avaj-launcher)** - Design patterns and UML design
-- 🏓 **[Ping (C)](https://github.com/isilva-t/42.Ping)** - Network fundamentals with ICMP implementation
 - 🐍 **[Python for Data Science](https://github.com/isilva-t/42.Python_for_data_science)** - Python fundamentals, Datatables, OOP and Data Oriented Design
+- 🏓 **[Ping (C)](https://github.com/isilva-t/42.Ping)** - Network fundamentals with ICMP implementation
 
 **Production Pipeline:**
 - 📦 **[PartStock Customer Catalog](https://github.com/isilva-t/partstock_customer_catalog)** - Public auto parts catalog. Java • Spring Boot  
