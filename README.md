@@ -29,7 +29,7 @@
 - 🏓 **[Ping (C)](https://github.com/isilva-t/42.Ping)** - Network fundamentals with ICMP implementation
 
 **Production Pipeline:**
-- 📦 **[PartStock Customer Catalog](https://github.com/isilva-t/partstock_customer_catalog)** - Public auto parts catalog. Java • Spring Boot  
+- 📦 **[Catalog for PartStock](https://github.com/isilva-t/catalog_for_partstock)** - Public auto parts catalog. Java • Spring Boot  
 
 ### ⚡ In Production
 - 🔍 **[StaffTrace](https://github.com/isilva-t/stafftrace)** - Employee presence monitoring microservices system. Java • Spring Boot • Python                  
