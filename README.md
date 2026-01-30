@@ -51,3 +51,5 @@
 - 🖨️ **[ft_printf](https://github.com/isilva-t/42.ft_printf)** - Printf function reimplementation with variadic arguments
 - 📚 **[Libft](https://github.com/isilva-t/42.Libft)** - Custom C standard library recreation
 - 🏊 **[Piscine C](https://github.com/isilva-t/42.Piscine_C)** - 42 Porto intensive C programming bootcamp
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/2ea44f/isilva-t)
