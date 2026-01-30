@@ -33,11 +33,7 @@
 
 ### ⚡ In Production
 - 🔍 **[StaffTrace](https://github.com/isilva-t/stafftrace)** - Employee presence monitoring microservices system. Java • Spring Boot • Python                  
-    🔗 [Demo: stafftrace.xyz](https://stafftrace.xyz)
-
 - 📊 **[PartStock](https://github.com/isilva-t/partstock)** - Inventory management platform with OLX marketplace integration. Python • FastAPI                
-    🔗 [Demo: partstock.xyz](https://partstock.xyz)
-
 
 ### ✅ Completed
 
