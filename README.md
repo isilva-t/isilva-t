@@ -25,7 +25,6 @@
 ### 🛠️ Currently Building
 
 **42 Advanced Curriculum:**
-- ☕ **[Avaj Launcher (Java)](https://github.com/isilva-t/42.avaj-launcher)** - Design patterns and UML design
 - 🐍 **[Python for Data Science](https://github.com/isilva-t/42.Python_for_data_science)** - Python fundamentals, Datatables, OOP and Data Oriented Design
 - 🏓 **[Ping (C)](https://github.com/isilva-t/42.Ping)** - Network fundamentals with ICMP implementation
 
@@ -38,6 +37,7 @@
 
 ### ✅ Completed
 
+- ☕ **[Avaj Launcher (Java)](https://github.com/isilva-t/42.avaj-launcher)** - Design patterns and UML design
 - 🎮 **[Transcendence (Typescript)](https://github.com/isilva-t/42.Transcendence)** - Full-stack web app with real-time multiplayer Pong game
 - 💬 **[Internet Relay Chat (C++)](https://github.com/isilva-t/42.Internet_Relay_Chat)** - RFC-compliant IRC server implementation in C++
 - 🐳 **[Inception (Docker)](https://github.com/isilva-t/42.Inception)** - Docker multi-container infrastructure with WordPress, MariaDB, and Nginx
