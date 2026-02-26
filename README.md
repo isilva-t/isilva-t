@@ -18,7 +18,7 @@
 - 🛠️ Frameworks: Spring Boot, FastAPI, Angular
 - 🗄️ Databases: SQLite, PostgreSQL, MongoDB
 - ☁️ Cloud: GCP, Hetzner, DigitalOcean
-- ⚙️ DevOps & OS: Docker, Linux, Windows, MacOS
+- ⚙️ DevOps: Docker, Terraform, Ansible
 
 <h2>Projects</h2>
 
