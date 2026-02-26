@@ -25,16 +25,19 @@
 ### 🛠️ Currently Building
 
 **42 Advanced Curriculum:**
-- ⚔️ **[Swingy (Java)](https://github.com/isilva-t/42.Swingy)** - Turn-based RPG game with dual interface modes (console/GUI)
-- 🐍 **[Python for Data Science](https://github.com/isilva-t/42.Python_for_data_science)** - Python fundamentals, Datatables, OOP and Data Oriented Design
-- 🏓 **[Ping (C)](https://github.com/isilva-t/42.Ping)** - Network fundamentals with ICMP implementation
+- 🎯 **[OOP Piscine (C#)](https://github.com/isilva-t/42.PiscineObject)** - Object-oriented programming piscine: encapsulation, SOLID, UML and design patterns
 
 **Production Pipeline:**
 - 📦 **[Catalog for PartStock](https://github.com/isilva-t/catalog_for_partstock)** - Public auto parts catalog. Java • Spring Boot  
 
 ### ⚡ In Production
 - 🔍 **[StaffTrace](https://github.com/isilva-t/stafftrace)** - Employee presence monitoring microservices system. Java • Spring Boot • Python                  
-- 📊 **[PartStock](https://github.com/isilva-t/partstock)** - Inventory management platform with OLX marketplace integration. Python • FastAPI                
+- 📊 **[PartStock](https://github.com/isilva-t/partstock)** - Inventory management platform with OLX marketplace integration. Python • FastAPI         
+
+### ⏸️ On Hold - 42 Advanced Curriculum
+- ⚔️ **[Swingy (Java)](https://github.com/isilva-t/42.Swingy)** - Turn-based RPG game with dual interface modes (console/GUI)
+- 🐍 **[Python for Data Science](https://github.com/isilva-t/42.Python_for_data_science)** - Python fundamentals, Datatables, OOP and Data Oriented Design
+- 🏓 **[Ping (C)](https://github.com/isilva-t/42.Ping)** - Network fundamentals with ICMP implementation
 
 ### ✅ Completed
 
