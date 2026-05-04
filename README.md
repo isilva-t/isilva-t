@@ -3,6 +3,7 @@
 <h2>About Me</h2>
 
 - :computer: &nbsp; Software Developer focused on delivering customized solutions driven by client results.
+- 🚗 &nbsp; Test Automation Engineer at Volkswagen Financial Services Porto (.NET & Playwright).
 - 💼 &nbsp; Background in IT hardware/software maintenance.
 - 📡 &nbsp; Wi-Fi hobbyist and network enthusiast.
 - 🎧 &nbsp; Audio mixing and editing enthusiast.
@@ -14,7 +15,7 @@
 
 <h2>Skills</h2>
 
-- 💻 Languages: Java, Python, C/C++, Typescript
+- 💻 Languages: Java, C#, Python, C/C++, Typescript
 - 🛠️ Frameworks: Spring Boot, FastAPI, Angular
 - 🗄️ Databases: SQLite, PostgreSQL, MongoDB
 - ☁️ Cloud: GCP, Hetzner, DigitalOcean
@@ -25,18 +26,15 @@
 ### 🛠️ Currently Building
 
 **42 Advanced Curriculum:**
-- 🎯 **[OOP Piscine (C#)](https://github.com/isilva-t/42.PiscineObject)** - Object-oriented programming piscine: encapsulation, SOLID, UML and design patterns
-
-**Production Pipeline:**
-- 📦 **[Catalog for PartStock](https://github.com/isilva-t/catalog_for_partstock)** - Public auto parts catalog. Java • Spring Boot  
+- 🐍 **[Python for Data Science](https://github.com/isilva-t/42.Python_for_data_science)** - Python fundamentals, Datatables, OOP and Data Oriented Design
 
 ### ⚡ In Production
 - 🔍 **[StaffTrace](https://github.com/isilva-t/stafftrace)** - Employee presence monitoring microservices system. Java • Spring Boot • Python                  
-- 📊 **[PartStock](https://github.com/isilva-t/partstock)** - Inventory management platform with OLX marketplace integration. Python • FastAPI         
+- 📊 **[PartStock](https://github.com/isilva-t/partstock)** - Inventory management platform with OLX marketplace integration. Python • FastAPI
+- 📦 **[Catalog for PartStock](https://github.com/isilva-t/catalog_for_partstock)** - Public auto parts catalog. Java • Spring Boot           
 
 ### ⏸️ On Hold - 42 Advanced Curriculum
 - ⚔️ **[Swingy (Java)](https://github.com/isilva-t/42.Swingy)** - Turn-based RPG game with dual interface modes (console/GUI)
-- 🐍 **[Python for Data Science](https://github.com/isilva-t/42.Python_for_data_science)** - Python fundamentals, Datatables, OOP and Data Oriented Design
 - 🏓 **[Ping (C)](https://github.com/isilva-t/42.Ping)** - Network fundamentals with ICMP implementation
 
 ### ✅ Completed
